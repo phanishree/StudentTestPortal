@@ -8,8 +8,9 @@ A 30 minuites timer is set to every question and a new question is displayed upo
 # Output Snapshots
 
 
-Sign up and Sign in page
+
 ![SignUPSignInPage](https://user-images.githubusercontent.com/56950692/132827317-6a8211c2-7bdd-452a-a23d-8b33197c4731.png)
+Sign up and Sign in page
 
 Sign up page
 ![SignUpPage](https://user-images.githubusercontent.com/56950692/132827321-373def6d-a481-43c4-917f-77d7bd574c22.png)
